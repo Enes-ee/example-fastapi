@@ -12,6 +12,7 @@ cryptography==37.0.2
 dnspython==2.2.1
 ecdsa==0.17.0
 email-validator==1.2.1
+engineering-notation==0.6.0
 fastapi==0.75.2
 greenlet==1.1.2
 h11==0.13.0
